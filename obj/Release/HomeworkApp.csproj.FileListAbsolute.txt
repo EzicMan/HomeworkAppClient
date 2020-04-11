@@ -1,0 +1,16 @@
+C:\Users\Zen\source\repos\HomeworkApp\bin\Release\HomeworkApp.exe.config
+C:\Users\Zen\source\repos\HomeworkApp\bin\Release\HomeworkApp.exe
+C:\Users\Zen\source\repos\HomeworkApp\bin\Release\HomeworkApp.pdb
+C:\Users\Zen\source\repos\HomeworkApp\obj\Release\HomeworkApp.csprojAssemblyReference.cache
+C:\Users\Zen\source\repos\HomeworkApp\obj\Release\HomeworkApp.AddGroup.resources
+C:\Users\Zen\source\repos\HomeworkApp\obj\Release\HomeworkApp.ChangeHomework.resources
+C:\Users\Zen\source\repos\HomeworkApp\obj\Release\HomeworkApp.AddHomework.resources
+C:\Users\Zen\source\repos\HomeworkApp\obj\Release\HomeworkApp.ChangePass.resources
+C:\Users\Zen\source\repos\HomeworkApp\obj\Release\HomeworkApp.DeleteGroup.resources
+C:\Users\Zen\source\repos\HomeworkApp\obj\Release\HomeworkApp.DeleteHomework.resources
+C:\Users\Zen\source\repos\HomeworkApp\obj\Release\HomeworkApp.Form1.resources
+C:\Users\Zen\source\repos\HomeworkApp\obj\Release\HomeworkApp.Properties.Resources.resources
+C:\Users\Zen\source\repos\HomeworkApp\obj\Release\HomeworkApp.csproj.GenerateResource.cache
+C:\Users\Zen\source\repos\HomeworkApp\obj\Release\HomeworkApp.csproj.CoreCompileInputs.cache
+C:\Users\Zen\source\repos\HomeworkApp\obj\Release\HomeworkApp.exe
+C:\Users\Zen\source\repos\HomeworkApp\obj\Release\HomeworkApp.pdb
